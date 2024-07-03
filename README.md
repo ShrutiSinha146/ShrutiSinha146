@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ShrutiSinha146
-- 👀 I’m interested in becoming an SDE
-- 🌱 I’m currently learning Java
-- 📫 How to reach me- Drop an email at shrutisinha146@gmail.com
+- 👋 Hi, I’m Shruti Sinha!
+- 👀 I’m interested in becoming an SDE.
+- 🌱 I’m currently learning Java.
+- 📫 How to reach me- Drop an email at shrutisinha146@gmail.com.
 - 😄 Pronouns: she/her
   
 
